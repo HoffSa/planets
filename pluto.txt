@@ -1,1 +1,3 @@
 It is so a planet!
+Its not planet anymore!
+echo Its not planet anymore!
